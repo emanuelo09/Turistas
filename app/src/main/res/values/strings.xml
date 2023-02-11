@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+
+    <string name="splash">Bienvenido a</string>
+    <string name="splash1">Jericó, Antioquia</string>
+
+
+    <string name="option0">Inicio</string>
+    <string name="option1">Acerca de</string>
+    <string name="option2">Ingles</string>
+    <string name="option3">Español</string>
+
+
+    <string name="iconhotel">Hotel</string>
+    <string name="iconRestaurant">Restaurante</string>
+
+    <string name="title_Main">Jericó</string>
+    <string name="context_Main">Donde el cielo es más azul y el viento pasa como si quisiera quedarse, está Jericó, una joya turística del Suroeste. Este municipio está ubicado en el suroeste del departamento, a 112 kilómetros de Medellín.</string>
+
+
+    <string name="fullName">Hola! soy Emanuel Osorio Urrea</string>
+    <string name="description">Tengo 18 años, soy de Colombia.\nEstudié Desarrollo de Software en la Escuela Cesde.\nSoy desarrollador FullStack.</string>
+    <string name="email">Correo Electronico: emanuelou67@gmail.com</string>
+    <string name="phoneNumber">Celular: 0000000000</string>
+
+
+    <string name="restaurantTitle1">Café Don Rafa</string>
+    <string name="restaurantType1">Café, Té, y comidas Colombianas</string>
+    <string name="restaurantSentence1">Pase un rato agradable, ambiente, música colombiana además de estar ubicado en frente del parque principal.</string>
+
+    <string name="restaurantTitle2">Isabel Parrilla Arte Café</string>
+    <string name="restaurantType2">Churrasquería, Café, y Bar de vinos</string>
+    <string name="restaurantSentence2">Disfrute de este hermoso lugar, con comidas deliciosas con una espectacular presentación, con deliciosos vinos y una decoración fabulosa.</string>
+
+    <string name="restaurantTitle3">Arabic Fox</string>
+    <string name="restaurantType3">Libanesa, Comida rápida, Sudamericana, Colombiana</string>
+    <string name="restaurantSentence3">Ven y disfruta de esta exquisita comida, en un ambiente agradable y tranquilo.</string>
+
+    <string name="restaurantTitle4">Ecoland</string>
+    <string name="restaurantType4">Desayuno, Almuerzo, Cena, y Bebidas</string>
+    <string name="restaurantSentence4">Asientos al aire libre, Restaurante privado, Wi-Fi gratis, Bar completo, pagos digitales, y vistas increibles con muchos más eventos.</string>
+
+
+    <string name="hotelName1">Vista Hermosa Finca Hotel</string>
+    <string name="hotelPrice1">Precio por noche: $220.000</string>
+    <string name="hotelContext1">Habitaciones agradables y hermosas\n, piscina con tobogán, zonas verdes\n, y unas vistas espectaculares.</string>
+
+    <string name="hotelName2">Finca Hotel La Luisa</string>
+    <string name="hotelPrice2">Precio por noche: $100.000</string>
+    <string name="hotelContext2">Habitaciones agradables, piscina\n, zonas verdes, maquinaria de gimnasio\n, zona para acampar,\n y vistas increíbles \nen un sitio sin contaminación</string>
+
+    <string name="hotelName3">El Despertar Hotel</string>
+    <string name="hotelPrice3">Precio por noche: $236.000</string>
+    <string name="hotelContext3">Habitaciones hermosas con\n una decoración increible\n, lugar tranquilo y saludable\n para venir con tu parejas y familia</string>
+
+    <string name="hotelName4">Casa Etnika</string>
+    <string name="hotelPrice4">Precio por noche: $336.000</string>
+    <string name="hotelContext4">Lugar sano y tranquilo, con piscina,\n areas verdes, habitaciones increibles,\n y zonas de juegos, ven y disfruta de este\n lugar libre de contaminación</string>
+
+
+</resources>

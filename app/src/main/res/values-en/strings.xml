@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+    <string name="splash">Welcome to</string>
+    <string name="splash1">Jericó, Antioquia</string>
+
+    <string name="option0">Start</string>
+    <string name="option1">About me</string>
+    <string name="option2">English</string>
+    <string name="option3">Spanish</string>
+
+    <string name="title_Main">Jericó</string>
+    <string name="context_Main">Where the sky is bluer and the wind passes as if wanting to stay, is Jericó, a tourist jewel of the Southwest. This municipality is located in the southwest of the department, 112 kilometers away from Medellín.</string>
+
+    <string name="iconhotel">Hotel</string>
+    <string name="iconRestaurant">Restaurant</string>
+
+    <string name="fullName">Hi! I am Emanuel Osorio Urrea</string>
+    <string name="description">I am 18 years old, I am from Colombia.\nI studied Software Development at the Cesde School.\nI am a FullStack developer.</string>
+    <string name="email">email: emanuelou67@gmail.com</string>
+    <string name="phoneNumber">CellPhone: 0000000000</string>
+
+    <string name="restaurantTitle1">Coffee Don Rafa</string>
+    <string name="restaurantType1">Coffee, Tea, and Colombian foods</string>
+    <string name="restaurantSentence1">Have a nice time, atmosphere, Colombian music as well as being located in front of the main park.</string>
+
+    <string name="restaurantTitle2">Isabel Grill Art Coffee</string>
+    <string name="restaurantType2">Steakhouse, Cafe, and Wine Bar</string>
+    <string name="restaurantSentence2">Enjoy this beautiful place, with delicious meals with a spectacular presentation, with delicious wines and a fabulous decoration.</string>
+
+    <string name="restaurantTitle3">Arabic Fox</string>
+    <string name="restaurantType3">Lebanese, Fast food, South American, Colombian</string>
+    <string name="restaurantSentence3">Come and enjoy this exquisite meal, in a pleasant and quiet atmosphere.</string>
+
+    <string name="restaurantTitle4">Ecoland</string>
+    <string name="restaurantType4">Brunch, Lunch, Dinner and Drinks</string>
+    <string name="restaurantSentence4">Outdoor seating, private restaurant, free Wi-Fi, full bar, digital payments and incredible views with many more events.</string>
+
+    <string name="hotelName1">Beautiful View Farm Hotel</string>
+    <string name="hotelPrice1">Price per night: $220.000</string>
+    <string name="hotelContext1">Pleasant and beautiful rooms\n, pool with slide, green areas \nand spectacular views.</string>
+
+    <string name="hotelName2">Farm Hotel La Luisa</string>
+    <string name="hotelPrice2">Price per night: $150.000</string>
+    <string name="hotelContext2">Nice rooms, pool, green areas\n, gym equipment, camping area\n and incredible views\n in a place without pollution</string>
+
+    <string name="hotelName3">The Awakening Hotel</string>
+    <string name="hotelPrice3">Price per night: $150.000</string>
+    <string name="hotelContext3">Beautiful rooms \nwith incredible decoration\n, a calm and healthy place\n to come with your partner and family</string>
+
+    <string name="hotelName4">Etnika House</string>
+    <string name="hotelPrice4">Price per night: $150.000</string>
+    <string name="hotelContext4">Healthy and quiet place,\n with a swimming pool, green areas,\n incredible rooms, playgrounds,\n come and enjoy this pollution-free place</string>
+
+</resources>
